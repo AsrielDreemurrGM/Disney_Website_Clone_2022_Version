@@ -11,7 +11,7 @@
 <h2>🌐 Live Preview</h2>
 <p>
   You can see the deployed project here:<br />
-  <a href="https://projeto-site-disney-plus-kgmf.vercel.app/" target="_blank">https://projeto-site-disney-plus-kgmf.vercel.app/</a>
+  <a href="https://disney-website-clone-2022-version-asrdrgm.vercel.app/" target="_blank">View on Vercel</a>
 </p>
 <h2>🚀 Key Features</h2>
 <ul>
